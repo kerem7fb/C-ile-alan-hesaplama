@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Alan Hesapla\Alan Hesapla\bin\Debug\Alan Hesapla.exe.config
+C:\Users\user\Desktop\10-M\Alan Hesapla\Alan Hesapla\bin\Debug\Alan Hesapla.exe
+C:\Users\user\Desktop\10-M\Alan Hesapla\Alan Hesapla\bin\Debug\Alan Hesapla.pdb
+C:\Users\user\Desktop\10-M\Alan Hesapla\Alan Hesapla\obj\Debug\Alan Hesapla.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Alan Hesapla\Alan Hesapla\obj\Debug\Alan_Hesapla.Form1.resources
+C:\Users\user\Desktop\10-M\Alan Hesapla\Alan Hesapla\obj\Debug\Alan_Hesapla.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Alan Hesapla\Alan Hesapla\obj\Debug\Alan Hesapla.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Alan Hesapla\Alan Hesapla\obj\Debug\Alan Hesapla.exe
+C:\Users\user\Desktop\10-M\Alan Hesapla\Alan Hesapla\obj\Debug\Alan Hesapla.pdb
